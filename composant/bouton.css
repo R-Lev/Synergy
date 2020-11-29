@@ -1,0 +1,13 @@
+.bouton-white-pink{
+	background: rgba(255, 255, 255, 0.7);
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: rgba(128, 64, 126);
+	font-weight: lighter;
+	font-size: 25px;
+}
+
+.bouton-white-pink:hover{
+	color: white;
+	background-color: rgba(128, 64, 126,0.7);
+}

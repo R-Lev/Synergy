@@ -1,0 +1,13 @@
+/* Importing component files */
+@import url("composant/banner.css");
+@import url("composant/card.css");
+@import url("composant/container-cards.css");
+@import url("composant/img-card.css");
+@import url("composant/bouton.css");
+@import url("composant/container.css");
+
+body{
+	background-color: #0e0f0f;
+	color:white;
+	text-decoration: none;
+}
